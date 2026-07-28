@@ -18,7 +18,6 @@ This lab focused on **preventive controls via Policy as Code**. In my current ro
 
 **Screenshots:** 
 
-
 <img width="501" height="420" alt="02-tagged-resource-json" src="https://github.com/user-attachments/assets/1b80edbf-0aa6-4035-9a00-99c6b36fe964" />
 <img width="1356" height="178" alt="01-westeurope-deny-error" src="https://github.com/user-attachments/assets/5e2fa541-eb6b-46ef-93c0-611050e73fd2" />
 <img width="1355" height="137" alt="03-missing-tag-deny-error-redacted" src="https://github.com/user-attachments/assets/368ecdd8-e168-468f-80b3-d13d0f5cbc30" />
