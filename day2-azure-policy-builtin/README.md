@@ -14,7 +14,7 @@
 - Reviewed the Compliance dashboard and confirmed both policies at 100% compliant, with zero non-compliant resources — since Deny prevents violations from ever being created
 
 ### 🧠 Security concept demonstrated
-This lab focused on **preventive controls via Policy as Code**. In my current role, I produce audit evidence and track compliance deliverables manually, on a quarterly cycle. Azure Policy automates that same function — the policy definition *is* the control, and the compliance dashboard *is* the evidence, generated continuously rather than produced by hand. Both policies I assigned used a Deny effect, meaning violations are blocked before they exist rather than flagged after the fact — a stronger posture than the detective/audit controls I'd originally planned to test, and a good real-world illustration of why "shift left" matters in cloud governance.
+This lab focused on **preventive controls via Policy as Code**. In my current role, I produce audit evidence and track compliance deliverables manually. Azure Policy automates that same function — the policy definition *is* the control, and the compliance dashboard *is* the evidence, generated continuously rather than produced by hand. Both policies I assigned used a Deny effect, meaning violations are blocked before they exist rather than flagged after the fact — a stronger posture than the detective/audit controls I'd originally planned to test, and a good real-world illustration of why "shift left" matters in cloud governance.
 
 **Screenshots:** 
 
