@@ -1,7 +1,7 @@
 Day 1: Azure Foundations + RBAC (Governance Baseline)
 Objective:
   The objective of this lab was to understand Azure's resource hierarchy and apply RBAC least-privilege at the resource group scope, the cloud equivalent of the access governance I run today.
-  
+
 What was Built:
 - Created resource group rg-lab-day1 in East US.
 - Created a Standard LRS storage account inside it.
