@@ -24,14 +24,12 @@ I currently handle compliance evidence, patching, configuration management, and 
 | Day | Lab | What it demonstrates | Status |
 |-----|-----|----------------------|--------|
 | 1 | [RBAC Foundations](./day1-rbac) | Least privilege and role scoping in Azure | ✅ Complete |
-| 2 | Azure Policy (Built-in) | Detective controls and compliance dashboards | 📋 Planned |
-| 3 | Policy as Code | Preventive controls: custom deny policies + remediation | 📋 Planned |
+| 2 | [Azure Policy (Built-in)](./day2-azure-policy-builtin) | Detective controls and compliance dashboards | ✅ Complete |
+| 3 | [Policy as Code](./day3-policy-as-code) | Preventive controls: custom deny policies + remediation | ✅ Complete |
 | 4 | Entra ID Governance | Identity lifecycle and access reviews | 📋 Planned |
 | 5 | Terraform IaC | Declarative, auditable infrastructure | 📋 Planned |
 | 6 | GitHub Actions CI/CD | Pipeline-enforced change management | 📋 Planned |
 | 7 | Defender for Cloud | Posture management and secure score | 📋 Planned |
 
-## ✅ Day 1: RBAC Foundations
-Created a resource group and storage account in Azure, then applied least-privilege RBAC by assigning the Reader role to a test user at the resource group scope via Entra ID and IAM. Verified the assignment through both the Azure Portal and CLI (`az role assignment list`), then tore down the environment.
 
 
