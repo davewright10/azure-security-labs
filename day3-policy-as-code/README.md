@@ -15,7 +15,7 @@ The CLI rejected my first attempt with `(InvalidPolicyRule) Could not find membe
 ### Security Concept Demonstrated
 This lab moved from *using* a control someone else wrote (Day 2's built-in policy) to *authoring* one myself — the same shift as writing a custom control mapping instead of relying on a pre-built framework template. The deny effect is a preventive control: the non-compliant storage account was never created, not flagged after the fact. That's a stronger posture than most of what I evidence manually today, where I'm usually confirming after deployment that something was configured correctly rather than architecturally preventing the misconfiguration from being possible.
 
-**Screenshots:** [→ day3-policy-as-code](./day3-policy-as-code)
+**Screenshots:**
 <img width="2509" height="450" alt="day3-policy-portal-assignments" src="https://github.com/user-attachments/assets/f4be556d-434c-4a31-990d-f7565a271027" />
 <img width="1704" height="896" alt="day3-deny-error" src="https://github.com/user-attachments/assets/0113b761-43f3-453a-9a8b-100e7a426fa9" />
 <img width="1627" height="859" alt="day3-policy-definition-create" src="https://github.com/user-attachments/assets/04f82994-5517-42f2-a250-e731c4ccf06a" />
