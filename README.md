@@ -26,10 +26,11 @@ I currently handle compliance evidence, patching, configuration management, and 
 | 1 | [RBAC Foundations](./day1-rbac) | Least privilege and role scoping in Azure | ✅ Complete |
 | 2 | [Azure Policy (Built-in)](./day2-azure-policy-builtin) | Detective controls and compliance dashboards | ✅ Complete |
 | 3 | [Policy as Code](./day3-policy-as-code) | Preventive controls: custom deny policies + remediation | ✅ Complete |
-| 4 | Entra ID Governance | Identity lifecycle and access reviews | 📋 Planned |
-| 5 | Terraform IaC | Declarative, auditable infrastructure | 📋 Planned |
-| 6 | GitHub Actions CI/CD | Pipeline-enforced change management | 📋 Planned |
-| 7 | Defender for Cloud | Posture management and secure score | 📋 Planned |
+| 4 | GitHub Actions CI/CD | Pipeline-enforced change management | 📋 Planned |
+| 5 | Defender for Cloud | Posture management and secure score | 📋 Planned |
+| 6 | Entra ID Governance | Identity lifecycle and access reviews | 📋 Planned |
+| 7 | Terraform IaC | Declarative, auditable infrastructure | 📋 Planned |
+
 
 
 
