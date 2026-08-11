@@ -1,4 +1,4 @@
-# day6-github-actions-cicd
+# day3-github-actions-cicd
 
 ## Objective
 
